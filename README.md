@@ -7,7 +7,7 @@
 3. Steal da mula 
 
 I hop dis work
-<Dud it Wurk
+>Dud it Wurk
 
 :octocat:
 
